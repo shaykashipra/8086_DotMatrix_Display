@@ -1,3 +1,4 @@
+<img src="Dot_Matrix_Display.png">
 # Procedure
 1. Install Emu8086
 2. Download EmulationKit.zip file from my github
